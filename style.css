@@ -14,7 +14,10 @@ h1 {
   font-size: 24px;
 }
 img {
-  width: 100%;
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
 }
 
 #tribute_info {
